@@ -7,4 +7,5 @@ main()
 void print()
 {
   printf("\n Hello World");
+  print("Rushi Shirke King OF Developers")
 }
