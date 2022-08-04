@@ -30,4 +30,5 @@ main()
 	
 	rectangle r2(9,8);
 	cout<<"\n Area of rectangle="<<r2.rectarea();
+	cout<<"\n Hello World";
 }
